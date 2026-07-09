@@ -1,6 +1,6 @@
-# 📘 C++ STL Masterclass
+# 🌐 C++ STL Masterclass
 
-## 🛤️ Learning Levels
+## 👾 Learning Levels
 
 🌱 Level 1 • Victor (01-26)
 
@@ -13,3 +13,5 @@
 🎯 Level 5 • 
 
 🏆 Level 6 • 
+
+🍷 Level 7 •
